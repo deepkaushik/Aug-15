@@ -1,5 +1,5 @@
 # Aug-15
-This Video app play video inside the app. User can use video controls that activates on touch on video. App showing use of:
+Video app play video inside the app. User can use video controls that activates on touch on video. App showing use of:
 
 1. VideoView
 2. Add video assets in raw folder
